@@ -1,0 +1,21 @@
+{
+	"city":[
+		{
+			"cityname" : "agra"
+		},
+		
+			{
+			"cityname" : "Delhi"
+		},
+			{
+			"cityname" : "Chandigarh"
+		},
+			{
+			"cityname" : "Pune"
+		},
+			{
+			"cityname" : "NCR"
+		}
+		
+		]
+}
